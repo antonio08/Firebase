@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Margin dimens-->
+    <dimen name="margin">16dp</dimen>
+
+    <!-- Button dimens -->
+    <dimen name="button_width">200dp</dimen>
+
+    <!-- Bias dimens -->
+    <dimen name="third_bias">0.75</dimen>
+    <dimen name="first_bias">0.15</dimen>
+    <dimen name="center_bias">0.5</dimen>
+
+</resources>
