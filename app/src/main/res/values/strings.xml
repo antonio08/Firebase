@@ -2,4 +2,6 @@
     <string name="app_name">Firebase</string>
     <string name="login_title">PLease login to proceed</string>
     <string name="welcome_message">Welcome to your login app using Firebase</string>
+    <string name="successful_sign_in">Congratulations you successfully login using Firebase</string>
+    <string name="logout_button">Logout</string>
 </resources>
